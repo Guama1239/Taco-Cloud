@@ -1,0 +1,18 @@
+2020-09-15 15:44:08,384 INFO tacos.TacoCloudApplication [restartedMain] Starting TacoCloudApplication on DESKTOP-58T9AVE with PID 12436 (C:\Users\guama\OneDrive - neiu.edu\Documents\Fall_2020\CS_321\code\Taco-Cloud\target\classes started by guama in C:\Users\guama\OneDrive - neiu.edu\Documents\Fall_2020\CS_321\code\Taco-Cloud)
+2020-09-15 15:44:08,386 INFO tacos.TacoCloudApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-09-15 15:44:08,421 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-15 15:44:08,421 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-15 15:44:08,935 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-09-15 15:44:08,940 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-09-15 15:44:08,940 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-15 15:44:08,984 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-09-15 15:44:08,984 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 561 ms
+2020-09-15 15:44:09,080 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-15 15:44:09,172 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-09-15 15:44:09,192 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-15 15:44:09,200 INFO tacos.TacoCloudApplication [restartedMain] Started TacoCloudApplication in 1.039 seconds (JVM running for 1.534)
+2020-09-15 15:44:18,793 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-15 15:44:18,795 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-09-15 15:44:18,798 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2020-09-15 15:44:46,561 INFO tacos.web.DesignTacoController [http-nio-8080-exec-9] Processing...Taco(name=LUIS ROSALES, ingredients=[COTO, CARN, CHED, TMTO, LETC, SLSA, SRCR])
+2020-09-15 15:48:13,595 INFO tacos.web.DesignTacoController [http-nio-8080-exec-2] Processing...Taco(name=Rita Maria, ingredients=[SRCR])
