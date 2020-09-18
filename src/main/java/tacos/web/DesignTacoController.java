@@ -56,7 +56,9 @@ public class DesignTacoController {
         List<Ingredient> ingredients = Arrays.asList(
                 new Ingredient("FLTO", "Flour Tortilla", Type.WRAP),
                 new Ingredient("COTO", "Corn Tortilla", Type.WRAP),
+                new Ingredient("TEST", "Test Category", Type.WRAP),// for testing
                 new Ingredient("GRBF", "Ground Beef", Type.PROTEIN),
+                new Ingredient("GRBF", "Ground Beef", Type.PROTEIN),//for testing
                 new Ingredient("CARN", "Carnitas", Type.PROTEIN),
                 new Ingredient("TMTO", "Tomato", Type.VEGGIES),
                 new Ingredient("LETC", "Lettuce", Type.VEGGIES),
