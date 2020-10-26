@@ -8,6 +8,8 @@ public class Ingredient {
     private final String name;
     private final Type type;
 
+    // static keyword below is not needed because when it is nested inside of a class
+    // the static keyword is default so it is not needed!
     public static enum Type{
         WRAP, PROTEIN, VEGGIES, CHEESE, SAUCE;
     }
